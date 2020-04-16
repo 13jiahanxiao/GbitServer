@@ -1,0 +1,14 @@
+D:\Unity\Project\GbitServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+D:\Unity\Project\GbitServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\GameServer.exe.config
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\GameServer.exe
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\GameServer.pdb
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\Common.dll
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\MySql.Data.dll
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\Google.Protobuf.dll
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\BouncyCastle.Crypto.dll
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\Common.pdb
+D:\Unity\Project\GbitServer\GameServer\bin\Debug\MySql.Data.xml
+D:\Unity\Project\GbitServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+D:\Unity\Project\GbitServer\GameServer\obj\Debug\GameServer.exe
+D:\Unity\Project\GbitServer\GameServer\obj\Debug\GameServer.pdb

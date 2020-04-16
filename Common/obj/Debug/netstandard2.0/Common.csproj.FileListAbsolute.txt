@@ -1,0 +1,8 @@
+D:\Unity\Project\GbitServer\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Unity\Project\GbitServer\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Unity\Project\GbitServer\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Unity\Project\GbitServer\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Unity\Project\GbitServer\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Unity\Project\GbitServer\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Unity\Project\GbitServer\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Unity\Project\GbitServer\Common\obj\Debug\netstandard2.0\Common.pdb
